@@ -1,7 +1,7 @@
 # Card Matching🎴
 
 ## General Info
-**Simple Card Matching Game, made with React and Redux. Give it a try and test your memory!** 
+**Simple Card Matching Game, built with React and Redux. Give it a try and test your memory!** 
 
 ![](https://github.com/danieLLeonte/matching-memory/blob/main/screencast/overview.png)
 ***

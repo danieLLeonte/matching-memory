@@ -1,7 +1,7 @@
 # Card Matching🎴
 
 ## General Info
-**Card Matching Game, built with React and Redux. Give it a [try](card-matching-game37.netlify.app/) and test your memory!** 
+**Card Matching Game, built with React and Redux. Give it a ![try](https://card-matching-game37.netlify.app/) and test your memory!** 
 
 ![](https://github.com/danieLLeonte/matching-memory/blob/main/screencast/overview.png)
 ***

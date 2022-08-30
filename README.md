@@ -3,7 +3,7 @@
 ## General Info
 **Simple Card Matching Game, made with React and Redux. Give it a try and test your memory!** 
 
-![](https://github.com/danieLLeonte/Find-Your-Hat/blob/main/screencast/Screenshot%202022-08-19%20132736.png)
+![](https://github.com/danieLLeonte/matching-memory/blob/main/screencast/overview.png)
 ***
 
 Some key concepts that I refreshed in this project:

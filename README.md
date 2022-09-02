@@ -2,7 +2,7 @@
 
 ## General Info
 **Card Matching game, built with React and Redux. Give it a try and test your memory!
-<a href="https://card-matching-game37.netlify.app/" target="_blank" >👉</a>** 
+<a href="https://card-matching-game37.netlify.app/" target="_blank" >👉🎯👈</a>** 
 
 ![](https://github.com/danieLLeonte/matching-memory/blob/main/screencast/overview.png)
 ***
